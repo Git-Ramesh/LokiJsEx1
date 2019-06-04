@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@wing386/loki-indexed-adapter": "^1.0.0",
     "lokijs": "^1.5.6",
     "requirejs": "^2.3.6"
   }
